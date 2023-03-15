@@ -1,0 +1,22 @@
+{
+	"images" : [
+		{
+			"idiom" : "universal",
+			"filename" : "png_transparent_computer_icons_profit_encapsulated_postscript_finance_text_people_logo.png",
+			"scale" : "1x"
+		},
+		{
+			"idiom" : "universal",
+			"scale" : "2x"
+		},
+		{
+			"idiom" : "universal",
+			"scale" : "3x"
+		}
+	],
+	"info" : {
+		"version" : 1,
+		"author" : "exportkit",
+		"generator" : "Export Kit v128"
+	}
+}
